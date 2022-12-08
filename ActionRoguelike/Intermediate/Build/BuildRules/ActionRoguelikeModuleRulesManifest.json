@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Source\\ActionRoguelike\\ActionRoguelike.Build.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Source\\ActionRoguelike.Target.cs",
+		"E:\\UE_Learning\\ActionRoguelike\\ActionRoguelike\\Source\\ActionRoguelikeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
